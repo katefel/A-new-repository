@@ -1,2 +1,2 @@
 # A-new-repository
-Nikkis atempt to do repository
+Nikkis attempt to do changes
